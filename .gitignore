@@ -1,0 +1,6 @@
+*.bak
+*.html
+*.css
+config.json
+bin/*
+static
