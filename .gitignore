@@ -2,5 +2,5 @@
 *.html
 *.css
 config.json
-bin/*
+bin/server
 static
